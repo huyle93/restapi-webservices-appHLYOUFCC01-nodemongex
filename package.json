@@ -1,0 +1,32 @@
+{
+  "name": "restapi-webservices-apphlyoufcc01-nodemongex",
+  "version": "1.0.0",
+  "description": "rest api for client application data consuming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huyle93/restapi-webservices-appHLYOUFCC01-nodemongex.git"
+  },
+  "keywords": [
+    "restful",
+    "api",
+    "node",
+    "mongodb",
+    "express"
+  ],
+  "author": "huy le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huyle93/restapi-webservices-appHLYOUFCC01-nodemongex/issues"
+  },
+  "homepage": "https://github.com/huyle93/restapi-webservices-appHLYOUFCC01-nodemongex#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.4",
+    "nodemon": "^1.17.1"
+  }
+}
